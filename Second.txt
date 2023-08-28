@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 try doing this on your own
+=======
+try doing this on your own
+>>>>>>> 06dbb636ef6ebfdf9fe98b793e70398db600c704
